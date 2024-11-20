@@ -14,12 +14,12 @@ When you click the "Submit" button in the extension's popup:
 1. The first radio button in each group is selected.
 2. The form is automatically submitted by triggering the submit button.
 
-## Installation
+## How to Install
 
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** using the toggle in the top-right corner.
-4. Click on **Load unpacked** and select the folder containing the extension files.
+4. Click on **Load unpacked** and select the downloaded folder.
 5. The extension will appear in your browser's toolbar.
 
 ## Usage
